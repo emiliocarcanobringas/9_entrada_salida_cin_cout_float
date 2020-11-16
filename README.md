@@ -1,1 +1,2 @@
-# 9_entrada_salida_cin_cout_float
+Este programa muestra en la salida estándar el valor de una variable de tipo float, para se utiliza para almacenar números de tipo real, se almacena mediante coma flotante, tiene un rango de almacenamiento máximo de 3.4E+38 y mínimo de 3.4E-38, utiliza 4 bytes de espacio en memoria para guardar los datos; para ello se agregó la librería estándar de 
+entrada y salida de datos iostream muestra también el acceso al espacio de nombres para el uso de cin y cout.
